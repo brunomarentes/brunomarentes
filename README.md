@@ -4,6 +4,10 @@
 
 Hello! My name is Bruno Marentes, and I'm excited to share a bit about myself. I am currently a Computer Science student at Universidad Nacional Autonoma de México (UNAM), with a passion for software, problem-solving, and technology innovation.
 
+## Faculty of Sciences (CU)
+
+In my current academic program, I am studying several subjects, which include: Advanced Algebra II, Graph theory, Discrete Structures, English III, Data Structures and Mathematics for Applied Sciences II. These subjects are an important part of my current education.
+
 ## Skills  :rice_scene:
 
 I am proficient in a variety of tools and technologies, including:
