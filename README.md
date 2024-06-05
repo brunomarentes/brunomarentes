@@ -1,23 +1,23 @@
-# README
+# README  :shipit: 
 
-## About Me
+## About Me  :mortar_board:
 
 Hello! My name is Bruno Marentes, and I'm excited to share a bit about myself. I am currently a Computer Science student at Universidad Nacional Autonoma de México (UNAM), with a passion for software, problem-solving, and technology innovation.
 
-## Skills
+## Skills  :rice_scene:
 
 I am proficient in a variety of tools and technologies, including:
 
 - **Programming Languages:** Python, Java, Haskell.
 - **Tools:** Git.
 
-## Interests
+## Interests :basketball:
 
 When I'm not studying or working on projects, I enjoy:
 
 - **Hobbies:** reading, playing video games, studying piano, playing basketball, etc.
 
-## Contact
+## Contact :grinning:
 
 Feel free to reach out to me via:
 
